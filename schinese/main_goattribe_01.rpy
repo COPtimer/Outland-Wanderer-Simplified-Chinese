@@ -2212,15 +2212,10 @@ translate schinese Kechioeren_Enter_13bea361:
     # "Not this grouchy general with a delicate voice."
     pass
 
-translate schinese Kechioeren_Enter_0f714086:
-
-    # "You feel like you need to do something..."
-    "要是现在再不做些什么，你就要被无缘无故关进监狱了。"
-
 translate schinese Kechioeren_Enter_748014cc:
 
     # "You are not ready to get locked up as a prisoner for no reason at all."
-    pass
+    "要是现在再不做些什么，你就要被无缘无故关进监狱了。"
 
 translate schinese Kechioeren_Enter_ece626b0:
 
@@ -2664,11 +2659,6 @@ translate schinese Kari_Adventure_4bc4b2e5:
 
     # k "Hmm?"
     k "说说你的家人。"
-
-translate schinese Kari_Adventure_9b0475d6:
-
-    # e "No one actually asked me this..."
-    e "还没谁问过我这个……"
 
 translate schinese Kari_Adventure_0af55a1b:
 

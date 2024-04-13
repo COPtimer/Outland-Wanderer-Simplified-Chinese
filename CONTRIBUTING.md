@@ -29,6 +29,7 @@ Chime | 齐门 |
 Furkan | 弗坎 | 
 Gwyddyon | 格威迪恩 | 
 Haskell | 哈斯克尔 | 
+Hezzong | 赫宗 | 
 Jog | 乔格 | 
 Kari | 卡里 | 
 Lothar | 洛萨尔 | 

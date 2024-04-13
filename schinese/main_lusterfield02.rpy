@@ -438,9 +438,9 @@ translate schinese Cane_Work_b6ca98b4_1:
     # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
     c "行吧，那在夜夜椿喝好玩好啊！"
 
-translate schinese Cane_Work_0f213b78:
+translate schinese Cane_Work_e120c034:
 
-    # c "Mister [e], ya had already served the whole village. Come back after a few hours ya thirsty lad."
+    # c "Mister [e], ya had already served the whole village 'ere. Come back after a few hours ya thirsty lad."
     c "[e]，全部村民你都招待个遍了。过几个小时再来吧，小淫娃。"
 
 translate schinese Cane_Work_62ea5a76:
@@ -2785,7 +2785,7 @@ translate schinese Cane_Apron_Quest_End_bffa6f1b:
     # c "He wouldn't listen, he didn't even talk to me again after that, he was just doing his job."
     c "可是他不听劝阻，甚至从那之后完全不理我了，只管埋头工作。"
 
-translate schinese Cane_Apron_Quest_End_b91b2de6:
+translate schinese Cane_Apron_Quest_End_d4e43b45:
 
     # c "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
     c "我本不该干涉他自己的选择，但我还是忍不住，收走了他所有的金币，以为这样他就不敢离开我。"

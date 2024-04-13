@@ -140,29 +140,29 @@ translate schinese strings:
     # old "Gato"
     # new ""
 
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力，每回合可发动一次。"
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT."
+    new "根据你的智慧属性值回复部分体力。"
 
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
-    new "显著增强 1 回合的防御力。消耗 20 点魔力，每 2 回合可发动一次。"
+    old "Fortify: {p} Your defense is increased by a significant amount for this round."
+    new "显著增强 1 回合的防御力。"
 
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
-    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力，每 2 回合可发动一次。"
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA."
+    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。"
 
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
-    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力，每回合可发动一次。"
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round."
+    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。"
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
-    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力，每 3 回合可发动一次。"
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI."
+    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。"
 
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力，每回合可发动一次。"
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT."
+    new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。"
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力，每回合可发动一次。"
+    old "Resolution: {p} Reduce your Lust based on your INT."
+    new "根据你的智慧属性值清除部分欲望。"
 
-    old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."
-    new ""
+    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI."
+    # new ""
 
     # old "A small red potion that replenishes the user's HP for a small amount."
     # new ""

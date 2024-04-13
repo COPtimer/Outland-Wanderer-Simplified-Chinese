@@ -1,6 +1,8 @@
 translate schinese python:
     gui.language = "japanese-normal"
 
+    gui.system_font = "Source_Han_Sans_CN-Regular.otf"
+
     gui.text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = FontGroup().add("AR_PL_KaitiM_Big5.ttf", 0x5187, 0x5187).add("AR_PL_KaitiM_Big5.ttf", 0x5463, 0x5463).add("AR_PL_KaitiM_Big5.ttf", 0x5c44, 0x5c44).add("AR_PL_KaitiM_Big5.ttf", 0x5c4c, 0x5c4c).add("AR_PL_KaitiM_Big5.ttf", 0x808f, 0x808f).add("AR_PL_KaitiM_Big5.ttf", 0x6294, 0x6294).add("AR_PL_KaitiM_GB.TTF", 0x2014, 0x201F).add("AR_PL_KaitiM_GB.TTF", 0x2E80, 0xffff).add("garamond.ttf", 0x0000, 0xffff)
 
     gui.name_text_font = "LXGWWenKaiLite-Bold.ttf"
@@ -16,8 +18,8 @@ translate schinese python:
         gui.text_size = 48
         gui.name_text_size = 42
 
-translate schinese style _default:
-    font "Source_Han_Sans_CN-Regular.otf"
+translate schinese style book_style:
+    font "nzgrKangxi.ttf"
 
 translate schinese style pling_button_text:
     font gui.text_font
